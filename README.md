@@ -1,4 +1,4 @@
-KinoHome Premium Mod
+KinoHome Mod
 
 Разблокирован Premium
 
