@@ -8,4 +8,4 @@ KinoHome Premium Mod
 
 Сделал свою OTA
 
-Вход в Google не работает
+Вход через Google не работает
